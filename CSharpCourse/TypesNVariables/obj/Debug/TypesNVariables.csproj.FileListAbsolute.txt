@@ -1,0 +1,7 @@
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\TypesNVariables\bin\Debug\TypesNVariables.exe.config
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\TypesNVariables\bin\Debug\TypesNVariables.exe
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\TypesNVariables\bin\Debug\TypesNVariables.pdb
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\TypesNVariables\obj\Debug\TypesNVariables.csprojAssemblyReference.cache
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\TypesNVariables\obj\Debug\TypesNVariables.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\TypesNVariables\obj\Debug\TypesNVariables.exe
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\TypesNVariables\obj\Debug\TypesNVariables.pdb
