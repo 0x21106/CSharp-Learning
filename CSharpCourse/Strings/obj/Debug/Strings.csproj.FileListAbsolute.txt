@@ -4,3 +4,4 @@ C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\Strings\bin\Debug\
 C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
 C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\Strings\obj\Debug\Strings.exe
 C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\Strings\obj\Debug\Strings.pdb
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
