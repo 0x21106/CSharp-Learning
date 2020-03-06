@@ -1,0 +1,7 @@
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\Classes\bin\Debug\Classes.exe.config
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\Classes\bin\Debug\Classes.exe
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\Classes\bin\Debug\Classes.pdb
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\Classes\obj\Debug\Classes.exe
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\Classes\obj\Debug\Classes.pdb
