@@ -1,0 +1,6 @@
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.csprojAssemblyReference.cache
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.pdb

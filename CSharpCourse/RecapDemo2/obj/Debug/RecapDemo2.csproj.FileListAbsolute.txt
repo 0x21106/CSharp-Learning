@@ -1,0 +1,6 @@
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.exe
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\RecapDemo2\bin\Debug\RecapDemo2.pdb
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.csprojAssemblyReference.cache
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.exe
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\RecapDemo2\obj\Debug\RecapDemo2.pdb

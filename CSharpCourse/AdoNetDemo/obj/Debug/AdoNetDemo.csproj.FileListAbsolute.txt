@@ -1,0 +1,9 @@
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csprojAssemblyReference.cache
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.pdb

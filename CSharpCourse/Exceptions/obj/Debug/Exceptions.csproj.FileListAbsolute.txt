@@ -1,0 +1,6 @@
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe.config
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\Exceptions\bin\Debug\Exceptions.pdb
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\Exceptions\obj\Debug\Exceptions.exe
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\Exceptions\obj\Debug\Exceptions.pdb

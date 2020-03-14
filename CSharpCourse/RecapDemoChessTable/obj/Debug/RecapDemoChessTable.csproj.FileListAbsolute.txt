@@ -1,0 +1,9 @@
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\RecapDemoChessTable\bin\Debug\RecapDemoChessTable.exe.config
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\RecapDemoChessTable\bin\Debug\RecapDemoChessTable.exe
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\RecapDemoChessTable\bin\Debug\RecapDemoChessTable.pdb
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\RecapDemoChessTable\obj\Debug\RecapDemoChessTable.csprojAssemblyReference.cache
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\RecapDemoChessTable\obj\Debug\RecapDemoChessTable.Form1.resources
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\RecapDemoChessTable\obj\Debug\RecapDemoChessTable.Properties.Resources.resources
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\RecapDemoChessTable\obj\Debug\RecapDemoChessTable.csproj.GenerateResource.cache
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\RecapDemoChessTable\obj\Debug\RecapDemoChessTable.exe
+C:\xampp\htdocs\LESSONS\Aranan Programci Olma\C#\CSharpCourse\RecapDemoChessTable\obj\Debug\RecapDemoChessTable.pdb
