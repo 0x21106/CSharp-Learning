@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Exceptions
@@ -10,14 +11,31 @@ namespace Exceptions
     {
         static void Main(string[] args)
         {
-            HandleException(() =>
+            //ActionDemo();
+
+            Func<int> GetRandom = delegate()
             {
-                Find();
-            });
+                Random random = new Random();
+                return random.Next(1, 100);
+            };
+
+            GetRandom();
+
+            Thread.Sleep(1000);
+
+            Func<int> GetRandom2 = () => new Random().Next(1, 100);
+
+            Console.WriteLine(GetRandom());
 
 
             Console.ReadKey();
         }
+
+        private static void ActionDemo()
+        {
+            HandleException(() => { Find(); });
+        }
+
         private static void HandleException(Action action)
         {
             try
